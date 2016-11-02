@@ -1,4 +1,5 @@
 // this is a quadratic equation calculator which produces the roots of the equation in exact and decimal form
+// I made this during CSE 142, Introductory Programming.  It is quite out of date.
 
 import java.util.*;
 
